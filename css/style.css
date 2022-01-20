@@ -1,3 +1,33 @@
-h1{
-    color: aquamarine;
+.first-part-bg{
+    background-color: #FFFBF0;
+}
+.be-penguin{
+    font-size: 80px;
+}
+.be-penguin span{
+    color: #FABE4C;
+}
+.penguin-text{
+    font-size: 16px;
+}
+.buy-now{
+    text-decoration: none;
+    display: flex;
+    background-image: linear-gradient(#A4BC46, #85A019);
+    width: 170px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.buy-now img{
+    height: 24px;
+    width: 24px;
+}
+.buy-now-text{
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-left: 8px;
 }
